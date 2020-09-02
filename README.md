@@ -13,4 +13,4 @@
 
 ### 3) Python strings
 [Article](https://medium.com/@domalajayashree/understanding-python-strings-8783506a9a4a)
-[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20variables.ipynb)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20strings.ipynb)

@@ -11,6 +11,10 @@
 [Article](https://medium.com/@domalajayashree/understanding-python-number-data-type-in-detail-de061daefef8)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20variables.ipynb)
 
-### 3) Python strings
+### 4) Python strings
 [Article](https://medium.com/@domalajayashree/understanding-python-strings-8783506a9a4a)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20strings.ipynb)
+
+### 5) Python lists
+[Article](https://medium.com/@domalajayashree/understanding-lists-in-python-3ee441d463a5)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20lists.ipynb)

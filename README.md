@@ -18,3 +18,7 @@
 ### 5) Python lists
 [Article](https://medium.com/@domalajayashree/understanding-lists-in-python-3ee441d463a5)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20lists.ipynb)
+
+### 6) Python dictionary
+[Article](https://medium.com/@domalajayashree/understanding-python-dictionaries-5639ed677d48)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20dictionaries.ipynb)

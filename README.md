@@ -26,3 +26,7 @@
 ### 7) Python tuples
 [Article](https://medium.com/@domalajayashree/tuples-in-python-6f3cf07ddfdc)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20tuples.ipynb)
+
+### 8) Python sets
+[Article](https://medium.com/@domalajayashree/sets-in-python-b8a6aa6899d6)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20sets.ipynb)

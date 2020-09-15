@@ -22,3 +22,7 @@
 ### 6) Python dictionary
 [Article](https://medium.com/@domalajayashree/understanding-python-dictionaries-5639ed677d48)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20dictionaries.ipynb)
+
+### 7) Python tuples
+[Article](https://medium.com/@domalajayashree/tuples-in-python-6f3cf07ddfdc)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20tuples.ipynb)

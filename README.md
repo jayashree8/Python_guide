@@ -34,3 +34,7 @@
 ### 9) Python booleans
 [Article](https://medium.com/@domalajayashree/booleans-in-python-c11605d01ba1)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20booleans.ipynb)
+
+### 10) Python I/O basic
+[Article](https://medium.com/@domalajayashree/python-i-o-commands-for-text-files-296f33502feb)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20IO.ipynb)

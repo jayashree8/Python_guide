@@ -38,3 +38,7 @@
 ### 10) Python I/O basic
 [Article](https://medium.com/@domalajayashree/python-i-o-commands-for-text-files-296f33502feb)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20data%20structures/Python%20IO.ipynb)
+
+### 11) Python comparison operators
+[Article](https://medium.com/@domalajayashree/python-comparison-operators-a97780eb87ad)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20data%20structures/Python%20comparison%20operators.ipynb)

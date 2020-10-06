@@ -5,3 +5,6 @@
 
 ### 2) Python statements
 [Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20statements)
+
+### 3) Python methods and functions
+[Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20methods%20and%20functions)

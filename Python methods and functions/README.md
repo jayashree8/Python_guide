@@ -12,3 +12,6 @@
 [Article](https://medium.com/@domalajayashree/lambda-expressions-map-and-filter-functions-951a4a503a47)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20methods%20and%20functions/Lambda%20Expressions%2C%20Map%2C%20and%20Filter%20Functions.ipynb)
 
+### 4) Scope of variables in Python
+[Article](https://medium.com/@domalajayashree/scope-of-variables-in-python-af5001da7fda)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20methods%20and%20functions/Scope%20of%20variables%20in%C2%A0Python.ipynb)

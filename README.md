@@ -12,5 +12,5 @@
 ### 4) Python object oriented programming
 [Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20object%20oriented%20programming)
 
-### 5) Python modeules and packages
+### 5) Python modules and packages
 [Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20modules%20and%20packages)

@@ -14,3 +14,6 @@
 
 ### 5) Python modules and packages
 [Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20modules%20and%20packages)
+
+### 6) Python errors and exception handling
+[Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20errors%20and%20exception%20handling)

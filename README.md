@@ -20,3 +20,6 @@
 
 ### 7) Python decorators
 [Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20decorators)
+
+### 8) Python generators
+[Folder](https://github.com/jayashree8/Python_guide/tree/master/Python%20generators)

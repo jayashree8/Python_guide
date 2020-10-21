@@ -8,4 +8,8 @@
 
 ### 3) Collections module in Python
 [Article](https://jayashree8.medium.com/collections-module-in-python-4db4bfda6d31)
-[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Advanced%20modules/Collections%20module%20in%20Python.ipynb)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Collections%20module%20in%20Python.ipynb)
+
+### 4) Datetime module in python
+[Article](https://jayashree8.medium.com/datetime-module-in-python-b1ea2987a8bd)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Datetime%20module%20in%20python.ipynb)

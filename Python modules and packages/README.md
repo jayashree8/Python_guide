@@ -13,3 +13,7 @@
 ### 4) Datetime module in python
 [Article](https://jayashree8.medium.com/datetime-module-in-python-b1ea2987a8bd)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Datetime%20module%20in%20python.ipynb)
+
+### 5) Debugger module in Python
+[Article](https://jayashree8.medium.com/debugging-in-python-59fff8846965)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Debugger%20module%20in%20Python.ipynb)

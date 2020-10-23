@@ -17,3 +17,7 @@
 ### 5) Debugger module in Python
 [Article](https://jayashree8.medium.com/debugging-in-python-59fff8846965)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Debugger%20module%20in%20Python.ipynb)
+
+### 6) Timing module in Python - timeit
+[Article](https://jayashree8.medium.com/timing-module-in-python-timeit-bddc6dc84846)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Timing%20module%20in%20Python%20-%20timeit.ipynb)

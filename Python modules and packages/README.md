@@ -25,3 +25,7 @@
 ### 7) Regular expression in Python
 [Article](https://jayashree8.medium.com/regular-expressions-in-python-60f4ee30d906)
 [Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Regular%20expression%20in%20Python.ipynb)
+
+### 8) Handling files in Python
+[Article](https://jayashree8.medium.com/handling-files-in-python-76bbefa58663)
+[Notebook](https://github.com/jayashree8/Python_guide/blob/master/Python%20modules%20and%20packages/Handling%20files%20in%C2%A0Python.ipynb)
